@@ -1,5 +1,5 @@
 #####___OVERVIEW__#####
-This project is used to registy, manage and valuate proporties.
+This project is used to registy, manage and valuate properties.
 
 ____This project uses___:
 *Django, a python web framework;
